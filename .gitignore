@@ -1,0 +1,22 @@
+# Compiled source #
+###################
+target/
+
+# IDE and editor folders #
+##########################
+.vscode/
+
+# System files #
+################
+.DS_Store # If using macOS
+*.swp     # Swap files for Unix-like systems
+Thumbs.db # For Windows
+
+# Log files #
+#############
+*.log
+
+# Other #
+#########
+*.tmp
+
